@@ -27,7 +27,7 @@
     "mustache-express": "1.0.1",
     "queue3": "1.0.2",
     "redis": "0.10.1",
-    "rfb2": "0.0.9",
+    "rfb2": "0.2.2",
     "socket.io": "1.0.0-pre4",
     "socket.io-client": "1.0.0-pre4",
     "socket.io-emitter": "0.1.0",
