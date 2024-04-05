@@ -18,7 +18,7 @@
   "homepage": "https://github.com/kevin-roark/socket.io-computer",
   "dependencies": {
     "blob": "0.1.0",
-    "browserify-middleware": "2.5.0",
+    "browserify-middleware": "2.8.0",
     "canvas": "~1.6.13",
     "debug": "^0.8.0",
     "express": "3.4.8",
